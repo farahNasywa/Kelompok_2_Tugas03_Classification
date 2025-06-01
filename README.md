@@ -8,8 +8,5 @@ Anggota Kelompok:
 
 -Dinda Maharani (2208107010081)
 
-Link Google Colab
-
-
 
 Link Presentasi
